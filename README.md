@@ -3,8 +3,8 @@
 ## Datos y links
 
 * Nombre: Nataniel Nazar
-* [Link Github Repo](https://github.com/Nazhariel/desafio_01.git)
-* [Link Netlify](https://inspiring-kataifi-2fee1f.netlify.app)
+* [Link Github Repo](https://github.com/Nazhariel/desafio_02.git)
+* [Link Netlify](https://dreamy-dolphin-a048d5.netlify.app)
 
 ### Nota:
 
