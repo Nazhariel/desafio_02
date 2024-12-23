@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap'); /* Tipografía Libre Baskerville para el título principal. */
+
+p {
+  font-family: Arial, Helvetica, sans-serif; /* La tipografía de los párrafos por default será arial. */
+}
+
+.tipo-libre-baskerville { /* Tipografía Libre Baskerville para el título principal. */
+  font-family: "Libre Baskerville", serif; 
+  font-style: italic;
+}
+
+.tipo-crimson-pro {  /* Tipografía Crimsom Pro para los h2. */
+  font-family: "Crimson Pro", serif;
+}
